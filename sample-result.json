@@ -1,0 +1,42 @@
+{
+  "shop": {
+    "country": "it",
+    "sitename": "trony_it",
+    "site_address": "https://www.trony.it/",
+    "sitemap_address": "https://www.trony.it/online/sitemap/TRONY-SITEMAP?FilePattern=product&SiteMapFileNo=0"
+  },
+  "products": [
+    {
+      "id": "12f29a74-498c-4c9a-a66e-6f20acbbb743",
+      "name": "ELDORADO 40",
+      "link": "https://www.trony.it/online/grandi-elettrodomestici/climatizzazione/ventilatori/ardes-eldorado-40_sku-2190001865",
+      "price": 49.9,
+      "currency": "Euro",
+      "description": "Tipologia di ventilatore Da tavolo - Diametro (cm) 40 - Potenza in Watt 60 - Numero velocità 3",
+      "updated_at": "2022-06-04",
+      "tags": [],
+      "main_cat_link": "",
+      "enable": true,
+      "discount": 0,
+      "image": "https://immagini.grespa.com/wsimmagini?socio=ECOMMERCE&ecat=2190001865&w=400&aspect=1",
+      "color": "",
+      "brand": "ARDES"
+    },
+    {
+      "id": "02efaaee-d473-438d-ac8d-204911672def",
+      "name": "EZ3018",
+      "link": "https://www.trony.it/online/piccoli-elettrodomestici/preparazione-cottura-cibi/friggitrici-vaporiere/moulinex-ez3018_sku-2200003477",
+      "price": 80.0,
+      "currency": "Euro",
+      "description": "Potenza in Watt 1030",
+      "updated_at": "2022-06-04",
+      "tags": [],
+      "main_cat_link": "",
+      "enable": true,
+      "discount": 0,
+      "image": "https://immagini.grespa.com/wsimmagini?socio=ECOMMERCE&ecat=2200003477&w=400&aspect=1",
+      "color": "",
+      "brand": "MOULINEX"
+    }
+  ]
+}
